@@ -1,65 +1,84 @@
 
-
-<div class="title" align="center">
-    <h3>IBM Skills Network</a> - Data Analysis with Python</h3>
-</div>
-<div class="image" align="center">
-    <img src="/_Coursera_Data_Analysis_w_Python.png" alt="Badge" style="width:23%">
+<div align="center">
+    <h3>IBM Skills Network - Data Analysis with Python</h3>
+        <img src="/_Coursera_Data_Analysis_w_Python.png" alt="Badge" style="width:23%">
 </div>
 
-<div class="Week_1">
-    <p><b>Week 1: Importing Datasets</b></p>
-    <ul>
-        <li>Analyze Python data using a dataset</li>
-        <li>Identify three Python libraries and describe their uses</li>
-        <li>Read data using Python's Pandas package</li>
-        <li>Demonstrate how to import and export data in Python</li>
-    </ul>
-</div>
-<div class="Week_2">
-    <p><b>Week 2: Data Wrangling</b></p>
-    <ul>
-        <li>Describe how to handle missing values</li>
-        <li>Describe data formatting techniques</li>
-        <li>Describe data normalization</li>
-        <li>Demonstrate the use of binning</li>
-        <li>Demonstrate the use of categotical variables</li>
-    </ul>
-</div>
-<div class="Week_3">
-    <p><b>Week 3: Exploratory Data Analysis</b></p>
-    <ul>
-        <li>Implement descriptive statistics</li>
-        <li>Demonstrate the basics of grouping</li>
-        <li>Describe data correlation processes</li>
-        <li>Describe why and how to apply the Chi-Squared test</li>
-    </ul>
-</div>
-<div class="Week_4">
-    <p><b>Week 4: Model Development</b></p>
-    <ul>
-        <li>Describe how to process linear regression in Python</li>
-        <li>Apply model evaluation using visualization in Python</li>
-        <li>Apply polynomial regression techniques to Python</li>
-        <li>Evaluate a data model by using visualization</li>
-        <li>Describe the use of R-squared and MSE for in-sample evaluation</li>
-        <li>Apply prediction and decision making to Python model creation</li>
-    </ul>
-</div>
-<div class="Week_5">
-    <p><b>Week 5: Model Evaluation</b></p>
-    <ul>
-        <li>Describe data model refinement techniques</li>
-        <li>Explain overfitting, underfitting and model selection</li>
-        <li>Apply ridge regression to regularize and reduce the standard errors to avoid overfitting a regression
-            model</li>
-        <li>Apply grid search techniques to Python data</li>
-    </ul>
-</div>
-<div class="Week_6">
-    <p><b>Week 6: Final Assessment</b></p>
-    <ul>
-        <li>Create a Jupyter notebook</li>
-        <li>Apply data analysis and modeling techniques to housing price data</li>
-    </ul>
-</div>
+### Week 1: Importing Datasets</b>
+- <b>Video: </b>The Problem
+- <b>Video: </b>Understanding The Data
+- <b>Practice Quiz: </b>Understanding The Data
+- <b>Video: </b>Python Packages for Data Science
+- <b>Practice Quiz: </b>Python Packages for Data Science
+- <b>Video: </b>Importing and Exporting Data In Python
+- <b>Practice Quiz: </b>Importing and Exporting Data In Python
+- <b>Video: </b>Getting Started Analyzing Data in Python
+- <b>Practice Quiz: </b>Getting Started Analyzing Data in Python
+- <b>Video: </b>Accessing Databases with Python 
+- <b>Reading: </b>Lesson Summary
+- <b>Jupyter Notebook: </b>Importing Datasets
+- <b>Graded Quiz: </b>Importing Datasets
+
+### Week 2: Data Wrangling
+- <b>Video: </b>Pre-processing Data in Python
+- <b>Video: </b>Dealing with Missing Values in Python
+- <b>Practice Quiz: </b>Dealing with Missing Values in Python
+- <b>Video: </b>Data Formatting in Python 
+- <b>Practice Quiz: </b>Data Formatting in Python
+- <b>Video: </b>Data Normalization in Python
+- <b>Practice Quiz: </b>Data Normalization in Python 
+- <b>Video: </b>Binning in Python 
+- <b>Video: </b>Turning Categorical Variables into Quantative Variables in Python 
+- <b>Practice Quiz: </b>Turning Categorical Variables into Quantative Variables in Python 
+- <b>Reading: </b>Lesson Summary
+- <b>Jupyter Notebook: </b>Data Wrangling
+- <b>Graded Quiz: </b>Data Wrangling
+
+### Week 3: Exploratory Data Analysis
+- <b>Video: </b>Exploratory Data Analysis
+- <b>Video: </b>Descriptive Statistics
+- <b>Practice Quiz: </b>Descriptive Statistics 
+- <b>Video: </b>GroupBy in Python
+- <b>Practice Quiz: </b>GroupBy in Python
+- <b>Video: </b>Correlation
+- <b>Practice Quiz: </b>Correlation
+- <b>Video: </b>Sorrelation - Statistics
+- <b>Practice Quiz: </b>Correlation - Statistics 
+- <b>Video: </b>Association Between Two Categorical Variables: Chi-Square
+- <b>Reading: </b>Lesson Summary
+- <b>Jupyter Notebook: </b>Exploratory Data Analysis
+- <b>Graded Quiz: </b>Exploratory Data Analysis
+
+### Week 4: Model Development
+- <b>Video: </b>Model Development
+- <b>Video: </b>Linear Regression and Multiple Linear Regression
+- <b>Practice Quiz: </b>Linear Regression and Multiple Linear Regression
+- <b>Video: </b>Model Evaluation using Visualization
+- <b>Practice Quiz: </b>Model Evaluation using Visualization
+- <b>Video: </b>Polynomial Regression and Pipelines
+- <b>Practice Quiz: </b>Polynomial Regression and Pipelines
+- <b>Video: </b>Measures for In-Sample Evaluation
+- <b>Practice Quix: </b>Measures for In-Sample Evaluation
+- <b>Video: </b>Prediction and Decision Making
+- <b>Reading: </b>Lesson Summary
+- <b>Jupyter Notebook: </b>Model Development
+- <b>Graded Quiz: </b>Model Development
+
+### Week 5: Model Evaluation
+- <b>Video: </b>Model Evaluation and Refinement
+- <b>Practice Quiz: </b>Model Evaluation 
+- <b>Video: </b>Overfitting, Underfitting and Model Selection
+- <b>Practice Quiz: </b>Overfitting, Underfitting and Model Selection
+- <b>Reading: </b>Ridge Regression
+- <b>Video: </b>Ridge Regression
+- <b>Practice Quiz: </b>Ridge Regression
+- <b>Video: </b>Grid Search
+- <b>Reading: </b>Lesson Summary
+- <b>Jupyter Notebook: </b>Model Evaluation and Refinement
+- <b>Graded Quiz: </b>Model Refinement
+    
+### Week 6: Final Assessment
+- <b>Reading: </b>Project Scenario
+- <b>Jupyter Notebook: </b>Lab for Final Project 
+- <b>Graded Quiz: </b>Final Exam
+
