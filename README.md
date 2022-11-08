@@ -1,8 +1,8 @@
-<div class="title">
+<div class="title" align="center">
     <h3>IBM Skills Network</a> - Data Analysis with Python</h3>
 </div>
 
-<div class="image">
+<div class="image" align="center">
     <img src="/_Coursera_Data_Analysis_w_Python.png" alt="Badge" style="width:23%">
 </div>
 
