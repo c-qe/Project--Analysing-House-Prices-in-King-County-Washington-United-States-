@@ -1,6 +1,10 @@
-# <a href="https://www.coursera.org/learn/data-analysis-with-python/">IBM Skills Network</a> - Data Analysis with Python
+<div class="title" align="center">
+  <h3><a href="https://www.coursera.org/learn/data-analysis-with-python/">IBM Skills Network</a> - Data Analysis with Python</h3>
+</div>
 
-<center><img src="/_Coursera_Data_Analysis_w_Python.jpg" alt="Badge"></center>
+<div class=image align="center">
+  <img src="/_Coursera_Data_Analysis_w_Python.png" alt="Badge" style="width:23%">
+</div>
 
 <details>
   <summary>Week 1: Importing Datasets</summary>
