@@ -5,19 +5,19 @@
 </div>
 
 ### Week 1: Importing Datasets</b>
-- <b>Video: </b>The Problem
-- <b>Video: </b>Understanding The Data
-- <b>Practice Quiz: </b>Understanding The Data
-- <b>Video: </b>Python Packages for Data Science
-- <b>Practice Quiz: </b>Python Packages for Data Science
-- <b>Video: </b>Importing and Exporting Data In Python
-- <b>Practice Quiz: </b>Importing and Exporting Data In Python
-- <b>Video: </b>Getting Started Analyzing Data in Python
-- <b>Practice Quiz: </b>Getting Started Analyzing Data in Python
-- <b>Video: </b>Accessing Databases with Python 
-- <b>Reading: </b>Lesson Summary
-- <b>Jupyter Notebook: </b>Importing Datasets
-- <b>Graded Quiz: </b>Importing Datasets
+- `1.1 - Video` - The Problem
+- `1.2 - Video` - Understanding The Data
+- `1.3 - Practice Quiz` - Understanding The Data
+- `1.4 - Video` - Python Packages for Data Science
+- `1.5 - Practice Quiz` - Python Packages for Data Science
+- `1.6 - Video` - Importing and Exporting Data In Python
+- `1.7 - Practice Quiz` - Importing and Exporting Data In Python
+- `1.8 - Video` - Getting Started Analyzing Data in Python
+- `1.9 - Practice Quiz` - Getting Started Analyzing Data in Python
+- `2.0 - Video` - Accessing Databases with Python 
+- `2.1 - Reading` - Lesson Summary
+- `2.2 - Jupyter Notebook` - Importing Datasets
+- `2.3 - Graded Quiz` - Importing Datasets
 
 ### Week 2: Data Wrangling
 - <b>Video: </b>Pre-processing Data in Python
