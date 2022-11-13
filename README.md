@@ -14,10 +14,10 @@
 - `1.7 - Practice Quiz` - Importing and Exporting Data In Python
 - `1.8 - Video` - Getting Started Analyzing Data in Python
 - `1.9 - Practice Quiz` - Getting Started Analyzing Data in Python
-- `2.0 - Video` - Accessing Databases with Python 
-- `2.1 - Reading` - Lesson Summary
-- `2.2 - Jupyter Notebook` - Importing Datasets
-- `2.3 - Graded Quiz` - Importing Datasets
+- `1.10 - Video` - Accessing Databases with Python 
+- `1.11 - Reading` - Lesson Summary
+- `1.12 - Jupyter Notebook` - Importing Datasets
+- `1.13 - Graded Quiz` - Importing Datasets
 
 ### Week 2: Data Wrangling
 - <b>Video: </b>Pre-processing Data in Python
