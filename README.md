@@ -1,84 +1,50 @@
 
-<div align="center">
-    <h3>IBM Skills Network - Data Analysis with Python</h3>
-        <img src="/_Coursera_Data_Analysis_w_Python.png" alt="Badge" style="width:23%">
+<div class='title' align="center">
+    <h3>Project: Analysing House Prices in King County, Washington, USA</h3>
 </div>
 
-### Week 1: Importing Datasets</b>
-- `1.1 - Video` - The Problem
-- `1.2 - Video` - Understanding The Data
-- `1.3 - Practice Quiz` - Understanding The Data
-- `1.4 - Video` - Python Packages for Data Science
-- `1.5 - Practice Quiz` - Python Packages for Data Science
-- `1.6 - Video` - Importing and Exporting Data In Python
-- `1.7 - Practice Quiz` - Importing and Exporting Data In Python
-- `1.8 - Video` - Getting Started Analyzing Data in Python
-- `1.9 - Practice Quiz` - Getting Started Analyzing Data in Python
-- `1.10 - Video` - Accessing Databases with Python 
-- `1.11 - Reading` - Lesson Summary
-- `1.12 - Jupyter Notebook` - Importing Datasets
-- `1.13 - Graded Quiz` - Importing Datasets
+**Overview:**
 
-### Week 2: Data Wrangling
-- `2.1 - Video` - Pre-processing Data in Python
-- `2.2 - Video` - Dealing with Missing Values in Python
-- `2.3 - Practice Quiz` - Dealing with Missing Values in Python
-- `2.4 - Video` - Data Formatting in Python 
-- `2.5 - Practice Quiz` - Data Formatting in Python
-- `2.6 - Video` - Data Normalization in Python
-- `2.7 - Practice Quiz` - Data Normalization in Python 
-- `2.8 - Video` - Binning in Python 
-- `2.9 - Video` - Turning Categorical Variables into Quantative Variables in Python 
-- `2.8 - Practice Quiz` - Turning Categorical Variables into Quantative Variables in Python 
-- `2.9 - Reading` - Lesson Summary
-- `2.8 - Jupyter Notebook` - Data Wrangling
-- `2.7 - Graded Quiz` - Data Wrangling
+You, as a skilled Data Analyst, have been entrusted with a pivotal project at a Real Estate Investment Trust (REIT). The task at hand is to meticulously assess the market prices of houses sold in King County, Washington, during the period between May 2014 and May 2015. To accomplish this, you will be utilizing a specific set of features such as square footage, number of bedrooms, number of floors, and more.
 
-### Week 3: Exploratory Data Analysis
-- `3.1 - Video` - Exploratory Data Analysis
-- `3.2 - Video` - Descriptive Statistics
-- `3.3 - Practice Quiz` - Descriptive Statistics 
-- `3.4 - Video` - GroupBy in Python
-- `3.5 - Practice Quiz` - GroupBy in Python
-- `3.6 - Video` - Correlation
-- `3.7 - Practice Quiz` - Correlation
-- `3.8 - Video` - Correlation Statistics
-- `3.9 - Practice Quiz` - Correlation Statistics 
-- `3.10 - Video` - Association Between Two Categorical Variables: Chi-Square
-- `3.11 - Reading` - Lesson Summary
-- `3.12 - Jupyter Notebook` - Exploratory Data Analysis
-- `3.13 - Graded Quiz` - Exploratory Data Analysis
+---
 
-### Week 4: Model Development
-- `4.1 - Video` - Model Development
-- `4.2 - Video` - Linear Regression and Multiple Linear Regression
-- `4.3 - Practice Quiz` - Linear Regression and Multiple Linear Regression
-- `4.4 - Video` - Model Evaluation using Visualization
-- `4.5 - Practice Quiz` - Model Evaluation using Visualization
-- `4.6 - Video` - Polynomial Regression and Pipelines
-- `4.7 - Practice Quiz` - Polynomial Regression and Pipelines
-- `4.8 - Video` - Measures for In-Sample Evaluation
-- `4.9 - Practice Quiz` - Measures for In-Sample Evaluation
-- `4.10 - Video` - Prediction and Decision Making
-- `4.11 - Reading` - Lesson Summary
-- `4.12 - Jupyter Notebook` - Model Development
-- `4.13 - Graded Quiz` - Model Development
+**Data Analysis Techniques:**
 
-### Week 5: Model Evaluation
-- `5.1 - Video` - Model Evaluation and Refinement
-- `5.2 - Practice Quiz` - Model Evaluation 
-- `5.3 - Video` - Overfitting, Underfitting and Model Selection
-- `5.4 - Practice Quiz` - Overfitting, Underfitting and Model Selection
-- `5.5 - Reading` - Ridge Regression
-- `5.6 - Video` - Ridge Regression
-- `5.7 - Practice Quiz` - Ridge Regression
-- `5.8 - Video` - Grid Search
-- `5.9 - Reading` - Lesson Summary
-- `5.10 - Jupyter Notebook` - Model Evaluation and Refinement
-- `5.11 - Graded Quiz` - Model Refinement
-    
-### Week 6: Final Assessment
-- `6.1 - Reading` - Project Scenario
-- `6.2 - Jupyter Notebook` - Lab for Final Project 
-- `6.3 - Graded Quiz` - Final Exam
+**Data Wrangling:** In this initial phase, you will be working with the raw data, preparing it for analysis. This involves tasks like handling missing values, removing duplicates, and transforming the data into a structured format suitable for further exploration.
 
+**Exploratory Data Analysis (EDA):** Here, you'll delve deep into the dataset, uncovering patterns, correlations, and trends. Visualizations and statistical summaries will be pivotal tools to help you understand the relationships between different features and the target variable (house prices). 
+
+**Linear Regression Model Development:** Armed with insights from the EDA, you will embark on the process of building a linear regression model. This model will be trained on the historical data to predict house prices based on the provided features. Linear regression is particularly useful for this task as it allows us to model the relationship between the variables.
+
+**Model Evaluation:** Once the model is trained, it's crucial to assess its performance. This includes metrics like Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R-squared (R²) values. These metrics will give you a clear understanding of how well the model is predicting house prices.
+
+**Model Refinement:** Based on the initial evaluation, you may identify areas for improvement. This could involve fine-tuning hyperparameters, considering feature engineering, or potentially exploring other machine learning models for comparison.
+
+---
+
+**Data Dictionary:**
+
+| Variable      | Description                                                                                                 |
+| ------------- | ----------------------------------------------------------------------------------------------------------- |
+| id            | A notation for a house                                                                                      |
+| date          | Date house was sold                                                                                         |
+| price         | Price is prediction target                                                                                  |
+| bedrooms      | Number of bedrooms                                                                                          |
+| bathrooms     | Number of bathrooms                                                                                         |
+| sqft_lot      | Square footage of the lot                                                                                   |
+| sqft_living   | Square footage of the home                                                                                  |
+| floors        | Total floors (levels) in house                                                                              |
+| waterfront    | House which has a view to a waterfront                                                                      |
+| view          | Has been viewed                                                                                             |
+| condition     | How good the condition is overall                                                                           |
+| grade         | overall grade given to the housing unit, based on King County grading system                                |
+| sqft_above    | Square footage of house apart from basement                                                                 |
+| sqft_basement | Square footage of the basement                                                                              |
+| yr_built      | Built Year                                                                                                  |
+| yr_renovated  | Year when house was renovated                                                                               |
+| zipcode       | Zip code                                                                                                    |
+| lat           | Latitude coordinate                                                                                         |
+| long          | Longitude coordinate                                                                                        |
+| sqft_living15 | Living room area in 2015(implies-- some renovations) This might or might not have affected the lotsize area |
+| sqft_lot15    | LotSize area in 2015(implies-- some renovations)                                                            |
